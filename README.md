@@ -11,8 +11,8 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 ### Result ###
 
-* Author name : {PUT YOUR NAME HERE}
-* Codeship : {PUT YOUR CODESHIP BAGDE HERE}
+* Author name : Dmitrii Gusev
+* Codeship : [![Codeship Status for Nesterlict/JavaSchoolExam](https://app.codeship.com/projects/3389b23a-c582-4a17-b2aa-d4cf608a4206/status?branch=master)](https://app.codeship.com/projects/416941)
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
